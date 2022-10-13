@@ -1,0 +1,3 @@
+{
+    "extends": "@mysteryven/eslint-config-react"
+}

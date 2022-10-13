@@ -1,0 +1,24 @@
+{
+  "name": "@mysteryzzz/eslint-config-ts",
+  "version": "0.0.1",
+  "description": "",
+  "private": false,
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "dependencies": {
+    "@typescript-eslint/parser": "^5.40.0",
+    "@typescript-eslint/eslint-plugin": "^5.40.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=7.4.0",
+    "typescript": ">=3.9"
+  },
+  "keywords": [],
+  "author": "mysteryven",
+  "license": "ISC"
+}
