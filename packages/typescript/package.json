@@ -1,6 +1,6 @@
 {
   "name": "@mysteryzzz/eslint-config-ts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "private": false,
   "main": "index.js",
@@ -20,5 +20,5 @@
   },
   "keywords": [],
   "author": "mysteryven",
-  "license": "ISC"
+  "license": "MIT"
 }

@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "mysteryven",
+  "license": "MIT",
   "dependencies": {
     "@mysteryzzz/eslint-config-ts": "workspace:*",
     "eslint-plugin-react": "^7.31.1",

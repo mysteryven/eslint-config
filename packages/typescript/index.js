@@ -60,6 +60,7 @@ module.exports = {
                 ignoreReadBeforeAssign: true,
             },
         ],
-        '@typescript-eslint/no-non-null-assertion': 'off'
+        '@typescript-eslint/no-non-null-assertion': 'off',
+        "no-fallthrough": "off"
     },
 }
