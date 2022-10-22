@@ -61,6 +61,7 @@ module.exports = {
             },
         ],
         '@typescript-eslint/no-non-null-assertion': 'off',
-        "no-fallthrough": "off"
+        "no-fallthrough": "off",
+        "@typescript-eslint/no-explicit-any": "off"
     },
 }
