@@ -18,3 +18,11 @@ pnpm add -D eslint @mysteryzzz/eslint-config-react
   "extends": "@mysteryzzz/eslint-config-react"
 }
 ```
+
+If you want only use in TypeScript environment, Install `@mysteryzzz/eslint-config-react` first, and add below to `.eslintrc`:
+
+```json
+{
+  "extends": "@mysteryzzz/eslint-config-ts"
+}
+```
